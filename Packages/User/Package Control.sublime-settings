@@ -6,7 +6,9 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AutoFileName",
+		"Boxy Theme",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"Colorsublime",
@@ -19,6 +21,7 @@
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"JavaScriptNext - ES6 Syntax",
+		"Material Theme",
 		"Package Control",
 		"Pretty JSON",
 		"rem-unit",
